@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "RDwC8QiDGncCt9tzAbDYIAbS2dM+MmyDGnjiZAUf/MiAjZ4Najkf2XhDoS//nm2bQKwG272J5WqlhQBYB9qJBw==",
+  "success": true,
+  "projectFilePath": "D:\\Myexs\\CleanRegister\\Core\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.20.151.51/guestAuth/app/nuget/v1/FeedService.svc/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.20.151.62/guestAuth/app/nuget/v1/FeedService.svc/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
